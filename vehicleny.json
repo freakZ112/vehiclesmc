@@ -1,0 +1,576 @@
+[
+    {
+        "id": 0,
+        "short_name": "Type 1 fire engine",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 750,
+        "foam": 25
+    },
+    {
+        "id": 1,
+        "short_name": "Type 2 fire engine",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 500,
+        "foam": 25
+    },
+    {
+        "id": 2,
+        "short_name": "Platform truck",
+        "coins": 30,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 3,
+        "short_name": "Battalion chief unit",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 4,
+        "short_name": "Heavy rescue vehicle",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 1,
+        "maxpersonnel": 4,
+        "water": 0
+    },
+    {
+        "id": 5,
+        "short_name": "ALS Ambulance",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 6,
+        "short_name": "Mobile air",
+        "coins": 25,
+        "credits": 11860,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 7,
+        "short_name": "Water Tanker",
+        "coins": 25,
+        "credits": 17300,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 3000
+    },
+    {
+        "id": 8,
+        "short_name": "Utility unit",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 1,
+        "maxpersonnel": 4,
+        "water": 0
+    },
+    {
+        "id": 9,
+        "short_name": "HazMat",
+        "coins": 25,
+        "credits": 19200,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 10,
+        "short_name": "Patrol Car",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 11,
+        "short_name": "HEMS",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 0
+    },
+    {
+        "id": 12,
+        "short_name": "Mobile command vehicle",
+        "coins": 25,
+        "credits": 25500,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 13,
+        "short_name": "Quint",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 500,
+        "foam": 25
+    },
+    {
+        "id": 14,
+        "short_name": "Police helicopter",
+        "coins": 30,
+        "credits": 300000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 0
+    },
+    {
+        "id": 15,
+        "short_name": "Fly-Car",
+        "coins": 20,
+        "credits": 4000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 16,
+        "short_name": "SWAT Armoured Vehicle",
+        "coins": 25,
+        "credits": 10000,
+        "minpersonnel": 6,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 17,
+        "short_name": "ARFF Crash Tender",
+        "coins": 25,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 4500,
+        "foam": 650
+    },
+    {
+        "id": 18,
+        "short_name": "Rescue Engine",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 750,
+        "foam": 25
+    },
+    {
+        "id": 19,
+        "short_name": "K-9 Unit",
+        "coins": 25,
+        "credits": 7000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 0
+    },
+    {
+        "id": 20,
+        "short_name": "Mass Casualty Unit",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 6,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 21,
+        "short_name": "Heavy Rescue + Light Boat",
+        "coins": 25,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 5,
+        "water": 0
+    },
+    {
+        "id": 22,
+        "short_name": "Light Boat Trailer",
+        "coins": 12,
+        "credits": 6000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "water": 0
+    },
+    {
+        "id": 23,
+        "short_name": "Police Motorcycle",
+        "coins": 18,
+        "credits": 2500,
+        "minpersonnel": 1,
+        "maxpersonnel": 1,
+        "water": 0
+    },
+    {
+        "id": 24,
+        "short_name": "Large Fireboat",
+        "coins": 35,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 7,
+        "water": 0
+    },
+    {
+        "id": 25,
+        "short_name": "Large Rescue Boat",
+        "coins": 35,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 6,
+        "water": 0
+    },
+    {
+        "id": 26,
+        "short_name": "SWAT SUV",
+        "coins": 23,
+        "credits": 7000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4,
+        "water": 0
+    },
+    {
+        "id": 27,
+        "short_name": "BLS Ambulance",
+        "coins": 25,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 28,
+        "short_name": "EMS Rescue",
+        "coins": 25,
+        "credits": 12180,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 29,
+        "short_name": "EMS Chief",
+        "coins": 20,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 30,
+        "short_name": "Type 3 engine",
+        "coins": 19,
+        "credits": 19000,
+        "minpersonnel": 3,
+        "maxpersonnel": 5,
+        "water": 500,
+        "foam": 20
+    },
+    {
+        "id": 31,
+        "short_name": "Type 5 engine",
+        "coins": 8,
+        "credits": 8000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3,
+        "water": 400
+    },
+    {
+        "id": 32,
+        "short_name": "Type 7 engine",
+        "coins": 5,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 50
+    },
+    {
+        "id": 33,
+        "short_name": "Pumper Tanker",
+        "coins": 19,
+        "credits": 19000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6,
+        "water": 2500,
+        "foam": 25
+    },
+    {
+        "id": 34,
+        "short_name": "Crew Carrier",
+        "coins": 10,
+        "credits": 10000,
+        "minpersonnel": 1,
+        "maxpersonnel": 12,
+        "water": 0
+    },
+    {
+        "id": 35,
+        "short_name": "Water drop helicopter",
+        "coins": 130,
+        "credits": 300000,
+        "minpersonnel": 2,
+        "maxpersonnel": 5,
+        "water": 2000
+    },
+    {
+        "id": 36,
+        "short_name": "Air Tanker",
+        "coins": 50,
+        "credits": 1000000,
+        "minpersonnel": 2,
+        "maxpersonnel": 5,
+        "water": 7200
+    },
+    {
+        "id": 37,
+        "short_name": "Heavy air tanker",
+        "coins": 65,
+        "credits": 1500000,
+        "minpersonnel": 2,
+        "maxpersonnel": 5,
+        "water": 12000
+    },
+    {
+        "id": 38,
+        "short_name": "Type 4 engine",
+        "coins": 10,
+        "credits": 10000,
+        "minpersonnel": 3,
+        "maxpersonnel": 5,
+        "water": 750
+    },
+    {
+        "id": 39,
+        "short_name": "Type 6 engine",
+        "coins": 5,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2,
+        "water": 150
+    },
+    {
+        "id": 40,
+        "short_name": "Dozer Trailer",
+        "coins": 15,
+        "credits": 20000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 41,
+        "short_name": "Crew cap semi",
+        "coins": 12,
+        "credits": 5000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 42,
+        "short_name": "FBI Unit",
+        "coins": 15,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 43,
+        "short_name": "FBI Investigation Wagon",
+        "coins": 15,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 44,
+        "short_name": "FBI Mobile Command Center",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 45,
+        "short_name": "FBI Bomb Technician Vehicle",
+        "coins": 35,
+        "credits": 35500,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 46,
+        "short_name": "FBI Surveillance Drone",
+        "coins": 25,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 1
+    },
+    {
+        "id": 47,
+        "short_name": "Sheriff Unit",
+        "coins": 20,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 48,
+        "short_name": "EMS Fire Engine/Ambulance",
+        "coins": 30,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 49,
+        "short_name": "Tactical Ambulance",
+        "coins": 30,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 50,
+        "short_name": "Hazmat Ambulance",
+        "coins": 35,
+        "credits": 30000,
+        "minpersonnel": 1,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 51,
+        "short_name": "DEA Unit",
+        "coins": 15,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 52,
+        "short_name": "DEA Clan Lab",
+        "coins": 20,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 53,
+        "short_name": "ATF Unit",
+        "coins": 15,
+        "credits": 10000,
+        "minpersonnel": 2,
+        "maxpersonnel": 4
+    },
+    {
+        "id": 54,
+        "short_name": "ATF Lab Vehicle",
+        "coins": 20,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 55,
+        "short_name": "Patrol Boat",
+        "coins": 30,
+        "credits": 30000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 56,
+        "short_name": "Warden's Truck",
+        "coins": 15,
+        "credits": 20000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 57,
+        "short_name": "EMS Mass Casualty Trailer (large)",
+        "coins": 30,
+        "credits": 30000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 58,
+        "short_name": "EMS Mass Casualty Trailer (small)",
+        "coins": 15,
+        "credits": 15000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0
+    },
+    {
+        "id": 59,
+        "short_name": "EMS Operations Support",
+        "coins": 20,
+        "credits": 25000,
+        "minpersonnel": 3,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 60,
+        "short_name": "EMS Mobile Command Unit",
+        "coins": 35,
+        "credits": 40000,
+        "minpersonnel": 6,
+        "maxpersonnel": 6
+    },
+    {
+        "id": 61,
+        "short_name": "ALS Rescue Ambulance",
+        "coins": 30,
+        "credits": 25000,
+        "minpersonnel": 3,
+        "maxpersonnel": 3
+    },
+    {
+        "id": 62,
+        "short_name": "Fire Investigator Unit",
+        "coins": 15,
+        "credits": 25000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 63,
+        "short_name": "Fire Prevention Unit",
+        "coins": 15,
+        "credits": 15000,
+        "minpersonnel": 1,
+        "maxpersonnel": 2
+    },
+    {
+        "id": 64,
+        "short_name": "Foam Tender",
+        "coins": 15,
+        "credits": 35000,
+        "minpersonnel": 2,
+        "maxpersonnel": 3,
+        "foam": 6500
+    },
+    {
+        "id": 65,
+        "short_name": "Foam Trailer",
+        "coins": 10,
+        "credits": 10000,
+        "minpersonnel": 0,
+        "maxpersonnel": 0,
+        "foam": 650
+    }
+]
